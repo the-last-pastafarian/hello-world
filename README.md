@@ -2,4 +2,4 @@
 First try of git hub
 
 holallaa it's fabulous ! 
-Nope It' awsome :) 
+No It' awsome !
